@@ -1,0 +1,54 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/BLrgjDw/technology-communication-icons-symbols-concept.jpg",
+        "title": "Exploring the Mysteries of Quantum Fiction",
+        "author": "Alice Quantumson",
+        "author_img": "https://i.ibb.co/86T0fCP/side-view-business-man-writing-agenda.jpg",
+        "posted_date": "September 20, 2023",
+        "reading_time": 10,
+        "hashtags": ["#QuantumPhysics", "#SciFi", "#QuantumFiction"]
+     },
+     {
+        "id": 67890,
+        "cover": "https://i.ibb.co/Jsr0DgD/5283882.jpg",
+        "title": "The Art of Digital Gardening: Cultivating Your Online Presence",
+        "Author": "Sam GreenThumb",
+        "Author_img": "https://i.ibb.co/9VWh63L/18361499.jpg",
+        "posted_date": "August 15, 2023",
+        "reading_time": 8 ,
+        "hashtags": ["#DigitalMarketing", "#SocialMedia", "#OnlinePresence"]
+     },
+     {
+        "ID": 24680,
+        "cover": "https://i.ibb.co/9q1hvDB/2204-i402-007-F-m004-c9-Podcast-flat-background.jpg",
+        "title": "Cooking Adventures: From Spatula to Spices",
+        "author": "Chef Mia Culinary",
+        "author_img": "https://i.ibb.co/rth1Crb/89.jpg",
+        "posted_date": "July 5, 2023",
+        "reading_time": 15,
+        "hashtags": ["#3Cooking", "#CulinaryArts", "#Foodie"]
+     },
+     {
+        "ID": 13579,
+        "cover": "https://i.ibb.co/3YPHwtQ/7964736.jpg",
+        "title": "Unraveling the Enigma of Ancient Hieroglyphs",
+        "author": "Dr. Indiana Archaeologist",
+        "author_img": "https://i.ibb.co/Fhq4nzS/2301-q702-014-F-m005-c7-travel-blogger.jpg",
+        "posted_date": "June 10, 2023",
+        "reading_time": 12,
+        "hashtags": ["#Archaeology", "#History", "#Hieroglyphs"]
+     },
+
+       {
+   "ID": 54321,
+   "Cover": "https://i.ibb.co/XSTxJ1F/2108-i402-016-F-m004-c9-Animation-and-motion-design-flat-background.jpg",
+   "title": "The Cosmic Symphony: Journey into the Stars",
+   "author": "Astro Explorer Xena",
+   "author_img": "https://i.ibb.co/nb438WC/18361494.jpg",
+   "posted_date": "May 2, 2023",
+   "reading_time": 20,
+   "hashtags": ["#Astronomy", "#SpaceExploration", "#Stargazing"]
+}
+
+]
